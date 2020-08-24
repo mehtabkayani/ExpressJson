@@ -1,0 +1,58 @@
+hr{
+    max-width: 350px;
+}
+
+a{
+    color:#80ffdb;
+}
+
+.author{
+    color: #7400b8;
+}
+.authorPic{
+    
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 50%;
+}
+
+.index{
+    background-color: #5390d9;
+}
+.mainDiv{
+    text-align:center ;
+}
+
+.header{
+    color: #c77dff;
+}
+.restaurant-body{
+    background-color: #240046;
+}
+
+.restaurantsList{
+    text-align: center;
+    background-color: #c77dff;
+}
+
+#restaurants{
+    background-color: #5a189a;
+    text-align: center;
+}
+.imageFile{
+    max-width: 400px;
+    max-height: 350px;
+    border-radius: 50%;
+}
+.name{
+    text-decoration: underline;
+}
+.description{
+    font-style: italic;
+}
+
+.back{
+    position: fixed;
+    top: 45px;
+    left: 80px;
+}
