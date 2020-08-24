@@ -31,7 +31,7 @@ fetch('http://localhost:3000/data')
 
         const location = document.createElement('p');
         location.classList.add('location');
-        location.innerHTML ='Location: '+ obj['location']
+        location.innerHTML ='Location: '+ obj['location'];
 
         const hr = document.createElement('hr');
         hr.classList.add('hr-restaurang');

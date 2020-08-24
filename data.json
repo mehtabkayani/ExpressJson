@@ -3,30 +3,31 @@
         "name" : "Eataly Stockholm",
         "location": "Stockholm",
         "description":"Italian, bar pizza,cafe. Gives you a taste of Italy.",
-        "imageFile": "eataly.jpg",
+        "imageFile": "static/eataly.jpg",
         "averageRating": "3.1"
-        
-
     },
+
     {
         "name" : "Maestro",
         "location": "Stockholm",
         "description":"Greek food, a lot of seafood options.",
-        "imageFile": "maestro.jpg",
+        "imageFile": "static/maestro.jpg",
         "averageRating": "4.5"
     },
+
     {
         "name" : "Mom's kitchen",
         "location": "Stockholm",
         "description":"if you miss your mom's food. Then come here and rejoice! ",
-        "imageFile": "moms.jpg",
+        "imageFile": "static/moms.jpg",
         "averageRating": "4.0"
     },
+
     {
         "name" : "Tapas 28",
         "location": "Lund",
         "description":"For tapas lovers! ❤️️",
-        "imageFile": "tapas.jpg",
+        "imageFile": "static/tapas.jpg",
         "averageRating": "4.9"
     },
     
@@ -34,7 +35,7 @@
         "name" : "Hattori Sushi Devil",
         "location": "Stockholm",
         "description":"Eat sushi until you are satisfied 😎",
-        "imageFile": "hattori.jpg",
+        "imageFile": "static/hattori.jpg",
         "averageRating": "3.9"
     },
     
@@ -42,7 +43,7 @@
         "name" : "Café FIKA",
         "location": "Stockholm",
         "description":"Stockholm's best Fika place",
-        "imageFile": "fika.jpg",
+        "imageFile": "static/fika.jpg",
         "averageRating": "5.0"
     },
     
@@ -50,7 +51,7 @@
         "name" : "Shanti Gossip",
         "location": "Uppsala",
         "description":"If you like to indian food and like to gossip over dinner, come on in!",
-        "imageFile": "shanti.jpg",
+        "imageFile": "static/shanti.jpg",
         "averageRating": "4.7"
     }
 ]
